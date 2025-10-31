@@ -33,7 +33,7 @@ It will:
 ## Code reference
 - Docs: [Ragas documentation](https://docs.ragas.io/en/stable/)
 
-## LinkedIn-ready snippet
+
 
 ```python
 from ragas import evaluate
