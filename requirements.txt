@@ -1,0 +1,6 @@
+ragas
+faiss-cpu
+openai
+python-dotenv
+datasets
+pydantic
